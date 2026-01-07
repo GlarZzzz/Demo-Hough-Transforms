@@ -1,0 +1,1 @@
+python pre_Hough.py input_image_Hough.bmp input_image_Hough.hex 640 480
